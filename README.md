@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Edo Fransisco</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<h3 align="center">A passionate full stack developer from Indonesia</h3>
 
 - 🌱 I’m currently learning **Python & Mobile App Development**
 
