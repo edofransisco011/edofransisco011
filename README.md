@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<img src="https://media.licdn.com/dms/image/D5616AQHaCRwyNkqelA/profile-displaybackgroundimage-shrink_350_1400/0/1697529623919?e=1704326400&v=beta&t=qge1jSQ_djjinf7qYISrHDQrH12V0iGCt_rTwKsJKWI" />
 <h1 align="center">Hi 👋, I'm Edo Fransisco</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
