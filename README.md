@@ -1,4 +1,3 @@
-<img src="https://media.licdn.com/dms/image/D5616AQHaCRwyNkqelA/profile-displaybackgroundimage-shrink_350_1400/0/1697529623919?e=1704326400&v=beta&t=qge1jSQ_djjinf7qYISrHDQrH12V0iGCt_rTwKsJKWI" />
 <h1 align="center">Hi 👋, I'm Edo Fransisco</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
@@ -50,4 +49,3 @@
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edofransisco011&hide_progress=true&theme=dark" alt=edofransisco011 />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=edofransisco011&show_icons=true&locale=en&theme=" alt="edofransisco011" /></p>
