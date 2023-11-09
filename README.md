@@ -1,6 +1,6 @@
 [linkedin]: https://www.linkedin.com/in/edo-fransisco-profile/
 
-## Hi There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="waving gif" width="40" height="35" />
+## 👋 Hi There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="waving gif" width="40" height="35" />
 
 Welcome to my Github! 👩🏻‍💻 My name is Edo Fransisco, I am a passionate full stack developer from Indonesia 🇮🇩! <br>
 Let's connect on Linkedin! [<img alt="Linkedin" src="https://img.shields.io/badge/linkedin-blue?style=social&logo=linkedin">][linkedin].
