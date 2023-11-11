@@ -10,7 +10,7 @@
 <br/>  
 
 
-<h2>My Techstack</h2>
+<h2 align="center" >My Techstack</h2>
 <table><tr><td valign="top" width="33%">
 
 
