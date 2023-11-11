@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Edo Fransisco and I'm a Full Stack Developer, from Indonesia 🇮🇩</h2>
 
 ###
-
+My Tech Stack
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
