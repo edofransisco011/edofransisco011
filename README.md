@@ -56,7 +56,7 @@
 <br/>  
 
 
-## Connect with me  
+<h2 align="center">Connect with me</h2>
 <div align="center">
 <a href="https://github.com/https://github.com/edofransisco011" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -72,6 +72,8 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=edofransisco011&&style=flat-square" align="center" />
 </div>  
+
+
 
 Feel free to explore my repositories and check out the projects I've been working on. If you have any questions or suggestions, don't hesitate to reach out!
 
