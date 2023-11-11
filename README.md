@@ -2,6 +2,10 @@
 
 ###
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=edofransisco011&&style=flat-square" alt="Profile Views">
+</p>
+
 <br clear="both">
 
 <h2 align="center">🖥️ My Tech Stack</h2>
@@ -83,12 +87,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=edofransisco011&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=edofransisco011&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/edofransisco011/edofransisco011/output/snake.svg" alt="Snake animation" />
 
 ###
 
