@@ -10,7 +10,7 @@
 <br/>  
 
 
-## My Skill Set  
+<h2>My Techstack</h2>
 <table><tr><td valign="top" width="33%">
 
 
@@ -75,16 +75,6 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edofransisco011&hide_border=true&layout=compact" align="center" /></div>  
-
-<br/>  
-
 
 Feel free to explore my repositories and check out the projects I've been working on. If you have any questions or suggestions, don't hesitate to reach out!
 
