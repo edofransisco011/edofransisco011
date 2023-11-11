@@ -1,5 +1,10 @@
 <h1 align="left">Hi 👋! My name is Edo Fransisco and I'm a Full Stack Developer, from Indonesia 🇮🇩</h1>
 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=edofransisco011&&style=flat-square" align="center" />
+</div>  
+
+
   
 
 <br/>  
@@ -81,27 +86,9 @@
 <br/>  
 
 
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=edofransisco011&&style=flat-square" align="center" />
 </div>  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
 Feel free to explore my repositories and check out the projects I've been working on. If you have any questions or suggestions, don't hesitate to reach out!
 
