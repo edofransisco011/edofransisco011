@@ -92,3 +92,8 @@
 ###
 
 <p align="center">Feel free to explore my repositories and check out the projects I've been working on. If you have any questions or suggestions, don't hesitate to reach out!</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=edofransisco011&&style=flat-square" alt="Profile Views">
+</p>
+
