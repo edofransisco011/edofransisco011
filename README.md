@@ -4,6 +4,8 @@
 
 <h2 align="center">👨 About Me</h2>
 
+<p align="center">Feel free to explore my repositories and check out the projects I've been working on. If you have any questions or suggestions, don't hesitate to reach out!</p>
+
 <br clear="both">
 
 <h2 align="center">🖥️ My Tech Stack</h2>
