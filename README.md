@@ -62,7 +62,7 @@
 
 <br clear="both">
 
-<h2 align="center">💬 Connect With me</h2>
+<h2 align="center">💬 Connect With Me</h2>
 
 ###
 
