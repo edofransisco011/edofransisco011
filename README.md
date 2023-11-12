@@ -2,10 +2,7 @@
 
 ###
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=edofransisco011&&style=flat-square" alt="Profile Views">
-</p>
-
+<h2 align="center">🖥️ About Me</h2>
 
 <br clear="both">
 
