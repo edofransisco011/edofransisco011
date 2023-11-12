@@ -1,4 +1,4 @@
-<h1 align="center">Hello there! 👋 I'm Edo Fransisco,  a passionate full-stack developer from Indonesia 🇮🇩</h1>
+<h1 align="center">Hello there! 👋 </h1>
 
 ###
 
