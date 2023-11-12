@@ -4,14 +4,7 @@
 
 <h2 align="center">👨 About Me</h2>
 
-<p align="center">I am a proficient full-stack developer, experienced in frontend and
-backend technologies. Committed to delivering top-tier results, I am
-actively seeking diverse opportunities to utilize my technical expertise
-and enhance your team's success. I am prepared to contribute
-significantly, whether it's optimizing current projects, exploring new
-ventures, or solving innovative challenges. I am enthusiastic about
-showcasing my skills and dedication to drive your projects forward
-professionally.</p>
+<p align="center">I am a skilled Full Stack Developer based in Indonesia 🇮🇩, driven by a passion for applying my expertise to contribute to cutting-edge projects. Proficient in both frontend and backend technologies, I excel in delivering high-quality results. Actively seeking opportunities to leverage my technical prowess, I am committed to enhancing team success through my dedication and skills. Experienced in optimizing existing projects, exploring new ventures, and solving creative challenges, I am well-prepared to make substantial contributions. Excited to showcase my proficiency and commitment, I am eager about the prospect of driving your projects forward professionally. I am ready to collaborate and bring excellence to your team, fostering mutual success.</p>
 
 <br clear="both">
 
