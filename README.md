@@ -88,7 +88,7 @@ Always learning and keeping up with what's new in <strong>DeFi and the tokenizat
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=edofransisco011&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=edofransisco011&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.vercel.app/?user=edofransisco011&theme=dracula&hide_border=false&border_radius=5&locale=en" height="150" alt="GitHub Streak"  />
 </div>
 
 ###
