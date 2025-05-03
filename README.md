@@ -6,9 +6,9 @@
 
 <p align="center">
 I started my journey in tech as a <strong>Fullstack Web Developer</strong> based in Indonesia 🇮🇩, spending a good chunk of time building diverse web applications – including about two years working directly with clients as a freelancer. That gave me a solid foundation in software engineering principles, but I quickly got hooked on the potential of blockchain and Web3 to really shake things up.<br><br>
-So, I've recently <strong>pivoted my focus</strong>, diving deep into the core of this new wave: <strong>smart contracts</strong>. This shift involved not just learning the theory but also cementing my excitement for building directly on-chain using <strong>Solidity</strong> and the <strong>EVM</strong> by applying these concepts through practical exercises and personal projects.<br><br>
-I genuinely enjoy the challenge of designing solid on-chain logic, writing clean <strong>Solidity</strong> code, and making sure everything works reliably through thorough testing (big fan of using the <strong>Hardhat</strong> development environment, interaction libraries like <strong>Web3.js</strong> and <strong>Ethers.js</strong>, and <strong>OpenZeppelin</strong> standards for security). It feels like the perfect blend of technical problem-solving and contributing to something groundbreaking.<br><br>
-Always learning and keeping up with what's new in <strong>DeFi and the tokenization of Real World Assets (RWA)</strong>. I believe my Fullstack background actually gives me a useful perspective when thinking about how smart contracts integrate into broader applications. I'm now eager to bring this combined experience and focused Web3 passion to new opportunities!
+So, I've recently <strong>pivoted my focus</strong>, diving deep into the core of this new wave: <strong>smart contracts</strong>. This shift involved not just learning the theory but also cementing my excitement for building directly on-chain using <strong>Solidity</strong> and the <strong>EVM</strong> by applying these concepts through practical exercises and personal projects. This pivot added deep Web3 capabilities to my existing full-stack skillset.<br><br>
+I genuinely enjoy the challenge of designing solid on-chain logic, writing clean <strong>Solidity</strong> code, and making sure everything works reliably through thorough testing (big fan of using the <strong>Hardhat</strong> development environment, interaction libraries like <strong>Web3.js</strong> and <strong>Ethers.js</strong>, and <strong>OpenZeppelin</strong> standards for security). It feels like the perfect blend of technical problem-solving and contributing to something groundbreaking. Beyond core development, I also apply my skills as a <strong>Prompt Engineer</strong>, using AI to streamline workflows and enhance code quality, and I'm currently <strong>learning LLM Engineering</strong> to deepen these capabilities.<br><br>
+Always learning and keeping up with what's new in <strong>DeFi and the tokenization of Real World Assets (RWA)</strong>. I believe my Fullstack background actually gives me a useful perspective when thinking about how smart contracts integrate into broader applications. I'm now eager to bring this blend of <strong>Full-Stack, Blockchain, and AI/Prompt Engineering skills</strong>, along with my focused Web3 passion, to exciting new opportunities!
 </p>
 
 <br clear="both">
@@ -94,5 +94,3 @@ Always learning and keeping up with what's new in <strong>DeFi and the tokenizat
 </div>
 
 ###
-
-
