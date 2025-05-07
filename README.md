@@ -75,6 +75,17 @@ Always learning and keeping up with what's new in <strong>DeFi and the tokenizat
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="30" alt="docker logo" />
 </div>
 
+<p align="center"><strong>Tools & Other</strong></p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Open%20AI-412991?logo=openai&logoColor=white&style=for-the-badge" height="30" alt="Open AI logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Open%20AI%20API-412991?logo=openai&logoColor=white&style=for-the-badge" height="30" alt="Open AI API logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Anthropic%20Claude-FF7F50?logo=anthropic&logoColor=white&style=for-the-badge" height="30" alt="Anthropic Claude logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Gemini-000000?logo=gemini&logoColor=white&style=for-the-badge" height="30" alt="Gemini logo" />
+</div>
+
 
 <h2 align="center">💬 Connect With Me</h2>
 
