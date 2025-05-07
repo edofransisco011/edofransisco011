@@ -68,15 +68,11 @@ Always learning and keeping up with what's new in <strong>DeFi and the tokenizat
   <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="30" alt="vercel logo" />
 </div>
 
-<p align="center"><strong>Tools & Platform</strong></p>
-<div align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="git logo" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="30" alt="docker logo" />
-</div>
-
 <p align="center"><strong>Tools & Other</strong></p>
 <div align="center">
+    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="git logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="30" alt="docker logo" />
   <img src="https://img.shields.io/badge/Open%20AI-412991?logo=openai&logoColor=white&style=for-the-badge" height="30" alt="Open AI logo" />
   <img width="12" />
   <img src="https://img.shields.io/badge/Open%20AI%20API-412991?logo=openai&logoColor=white&style=for-the-badge" height="30" alt="Open AI API logo" />
