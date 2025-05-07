@@ -65,7 +65,11 @@ Always learning and keeping up with what's new in <strong>DeFi and the tokenizat
 
 <p align="center"><strong>Cloud & Deployment</strong></p>
 <div align="center">
-  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="30" alt="vercel logo" />
+ <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="30" alt="vercel logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" height="30" alt="AWS logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" height="30" alt="Google Cloud Platform logo" />
 </div>
 
 <p align="center"><strong>Tools & Other</strong></p>
