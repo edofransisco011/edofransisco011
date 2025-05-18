@@ -113,7 +113,7 @@ I'm passionate about DeFi, the tokenization of Real World Assets (RWA), and beli
       <li>Implemented qualitative analysis workflows for token selection, prioritizing research accuracy over financial recommendations.</li>
       <li>Integrated push notifications and automated reports, delivering real-time insights on selected tokens and research rationale.</li>
     </ul>
-    <a href="https://github.com/edofransisco011/TokenPicker Agent" target="_blank">
+    <a href="https://github.com/edofransisco011/TokenPicker_Agent" target="_blank">
       <img src="https://img.shields.io/badge/GitHub%20Repo-View%20Project-blue?style=for-the-badge&logo=github" alt="View Project on GitHub"/>
     </a>
   </p>
@@ -128,7 +128,7 @@ I'm passionate about DeFi, the tokenization of Real World Assets (RWA), and beli
       <li>Implemented a ConversationQueryTool to leverage historical conversations and guidelines, streamlining solution delivery.</li>
       <li>Automated Markdown report generation for each query, documenting solutions and rationale for operational transparency.</li>
     </ul>
-    <a href="https://github.com/edofransisco011/Customer%20Support%20Agents" target="_blank">
+    <a href="https://github.com/edofransisco011/CustomerSupport_Agents" target="_blank">
       <img src="https://img.shields.io/badge/GitHub%20Repo-View%20Project-blue?style=for-the-badge&logo=github" alt="View Project on GitHub"/>
     </a>
   </p>
