@@ -102,38 +102,23 @@ I'm passionate about DeFi, the tokenization of Real World Assets (RWA), and beli
 
 <br clear="both">
 
-<h2 align="center">🚀 My Projects</h2>
+<h2 align="center">🚀 Latest Projects</h2>
 
 <div align="left" style="padding: 0 20px;">
   <h3 align="left">TOKEN PICKER AI CREW (CrewAI-Based Multi-Agent System)</h3>
-  <p align="left">
-    Built a multi-agent system using CrewAI to automate the identification and research of trending cryptocurrency tokens in Layer 1, DeFi, and AI sectors.
-    <ul>
-      <li>Designed AI agents to scan web data, analyze token news and sentiment, and curate reliable resources, ensuring robust data integrity.</li>
-      <li>Implemented qualitative analysis workflows for token selection, prioritizing research accuracy over financial recommendations.</li>
-      <li>Integrated push notifications and automated reports, delivering real-time insights on selected tokens and research rationale.</li>
-    </ul>
-    <a href="https://github.com/edofransisco011/TokenPicker Agent" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub%20Repo-View%20Project-blue?style=for-the-badge&logo=github" alt="View Project on GitHub"/>
-    </a>
-  </p>
+  <a href="https://github.com/edofransisco011/TokenPicker Agent" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub%20Repo-View%20Repo-blue?style=for-the-badge&logo=github" alt="View Repo on GitHub"/>
+  </a>
 </div>
-
-<div align="left" style="padding: 20px 20px;">
+<br>
+<div align="left" style="padding: 0 20px;">
   <h3 align="left">CUSTOMER SUPPORT AI AGENT</h3>
-  <p align="left">
-    Built a multi-agent system using CrewAI to automate and enhance customer support query processing and response generation.
-    <ul>
-      <li>Designed AI agents to search internal knowledge bases and craft empathetic responses, improving response consistency.</li>
-      <li>Implemented a ConversationQueryTool to leverage historical conversations and guidelines, streamlining solution delivery.</li>
-      <li>Automated Markdown report generation for each query, documenting solutions and rationale for operational transparency.</li>
-    </ul>
-    <a href="https://github.com/edofransisco011/Customer%20Support%20Agents" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub%20Repo-View%20Project-blue?style=for-the-badge&logo=github" alt="View Project on GitHub"/>
-    </a>
-  </p>
+  <a href="https://github.com/edofransisco011/Customer%20Support%20Agents" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub%20Repo-View%20Repo-blue?style=for-the-badge&logo=github" alt="View Repo on GitHub"/>
+  </a>
 </div>
 <br clear="both">
+<br>
 
 <h2 align="center">💬 Connect With Me</h2>
 
