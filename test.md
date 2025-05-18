@@ -5,10 +5,10 @@
 <h2 align="center">👨 About Me</h2>
 
 <p align="center">
-I'm a <strong>Full-Stack Developer</strong> based in Indonesia 🇮🇩, with dual expertise in <strong>Blockchain and LLM Engineering</strong>. My journey started with building diverse web applications, including about two years of freelance client work, which gave me a strong foundation in software engineering. I then pivoted to focus on the transformative potential of Web3 and blockchain technology, specializing in <strong>smart contract development</strong> using <strong>Solidity</strong> and the <strong>EVM</strong>. [cite: 1, 2]<br><br>
-I enjoy designing robust on-chain logic, writing clean Solidity code, and ensuring reliability through thorough testing with tools like <strong>Hardhat</strong>, interaction libraries such as <strong>Web3.js</strong> and <strong>Ethers.js</strong>, and adhering to <strong>OpenZeppelin</strong> standards for security. [cite: 6] My experience includes developing 10+ scalable web and decentralized applications (DApps) on Ethereum and Polygon, particularly for token marketplaces. [cite: 6]<br><br>
-Beyond blockchain, I leverage my skills as a <strong>Prompt Engineer</strong> and am continually advancing in <strong>LLM Engineering</strong>. I design AI-driven autonomous tools using large language models for automation, research, and enhancing code quality. This includes crafting optimized prompts for models like ChatGPT, Claude, and Grok, and developing AI agents with frameworks such as LangGraph, CrewAI, and Autogen. [cite: 3, 10, 11] My background also includes enhancing front-end interfaces with React.js and Next.js and building back-end APIs with Node.js and MongoDB. [cite: 7, 9]<br><br>
-I'm passionate about DeFi, the tokenization of Real World Assets (RWA), and believe my full-stack perspective is valuable when integrating smart contracts into broader applications. I'm eager to bring this blend of <strong>Full-Stack, Blockchain, and AI/LLM Engineering skills</strong> to exciting new opportunities. [cite: 4]
+I'm a <strong>Full-Stack Developer</strong> based in Indonesia 🇮🇩, with dual expertise in <strong>Blockchain and LLM Engineering</strong>. My journey started with building diverse web applications, including about two years of freelance client work, which gave me a strong foundation in software engineering. I then pivoted to focus on the transformative potential of Web3 and blockchain technology, specializing in <strong>smart contract development</strong> using <strong>Solidity</strong> and the <strong>EVM</strong>.<br><br>
+I enjoy designing robust on-chain logic, writing clean Solidity code, and ensuring reliability through thorough testing with tools like <strong>Hardhat</strong>, interaction libraries such as <strong>Web3.js</strong> and <strong>Ethers.js</strong>, and adhering to <strong>OpenZeppelin</strong> standards for security. My experience includes developing 10+ scalable web and decentralized applications (DApps) on Ethereum and Polygon, particularly for token marketplaces.<br><br>
+Beyond blockchain, I leverage my skills as a <strong>Prompt Engineer</strong> and am continually advancing in <strong>LLM Engineering</strong>. I design AI-driven autonomous tools using large language models for automation, research, and enhancing code quality. This includes crafting optimized prompts for models like ChatGPT, Claude, and Grok, and developing AI agents with frameworks such as LangGraph, CrewAI, and Autogen. My background also includes enhancing front-end interfaces with React.js and Next.js and building back-end APIs with Node.js and MongoDB.<br><br>
+I'm passionate about DeFi, the tokenization of Real World Assets (RWA), and believe my full-stack perspective is valuable when integrating smart contracts into broader applications. I'm eager to bring this blend of <strong>Full-Stack, Blockchain, and AI/LLM Engineering skills</strong> to exciting new opportunities.
 </p>
 
 <br clear="both">
@@ -107,11 +107,11 @@ I'm passionate about DeFi, the tokenization of Real World Assets (RWA), and beli
 <div align="left" style="padding: 0 20px;">
   <h3 align="left">TOKEN PICKER AI CREW (CrewAI-Based Multi-Agent System)</h3>
   <p align="left">
-    Built a multi-agent system using CrewAI to automate the identification and research of trending cryptocurrency tokens in Layer 1, DeFi, and AI sectors. [cite: 14]
+    Built a multi-agent system using CrewAI to automate the identification and research of trending cryptocurrency tokens in Layer 1, DeFi, and AI sectors.
     <ul>
-      <li>Designed AI agents to scan web data, analyze token news and sentiment, and curate reliable resources, ensuring robust data integrity. [cite: 15]</li>
-      <li>Implemented qualitative analysis workflows for token selection, prioritizing research accuracy over financial recommendations. [cite: 16]</li>
-      <li>Integrated push notifications and automated reports, delivering real-time insights on selected tokens and research rationale. [cite: 17]</li>
+      <li>Designed AI agents to scan web data, analyze token news and sentiment, and curate reliable resources, ensuring robust data integrity.</li>
+      <li>Implemented qualitative analysis workflows for token selection, prioritizing research accuracy over financial recommendations.</li>
+      <li>Integrated push notifications and automated reports, delivering real-time insights on selected tokens and research rationale.</li>
     </ul>
     <a href="https://github.com/edofransisco011/TokenPicker Agent" target="_blank">
       <img src="https://img.shields.io/badge/GitHub%20Repo-View%20Project-blue?style=for-the-badge&logo=github" alt="View Project on GitHub"/>
@@ -122,29 +122,17 @@ I'm passionate about DeFi, the tokenization of Real World Assets (RWA), and beli
 <div align="left" style="padding: 20px 20px;">
   <h3 align="left">CUSTOMER SUPPORT AI AGENT</h3>
   <p align="left">
-    Built a multi-agent system using CrewAI to automate and enhance customer support query processing and response generation. [cite: 18]
+    Built a multi-agent system using CrewAI to automate and enhance customer support query processing and response generation.
     <ul>
-      <li>Designed AI agents to search internal knowledge bases and craft empathetic responses, improving response consistency. [cite: 19]</li>
-      <li>Implemented a ConversationQueryTool to leverage historical conversations and guidelines, streamlining solution delivery. [cite: 20]</li>
-      <li>Automated Markdown report generation for each query, documenting solutions and rationale for operational transparency. [cite: 21]</li>
+      <li>Designed AI agents to search internal knowledge bases and craft empathetic responses, improving response consistency.</li>
+      <li>Implemented a ConversationQueryTool to leverage historical conversations and guidelines, streamlining solution delivery.</li>
+      <li>Automated Markdown report generation for each query, documenting solutions and rationale for operational transparency.</li>
     </ul>
     <a href="https://github.com/edofransisco011/Customer%20Support%20Agents" target="_blank">
       <img src="https://img.shields.io/badge/GitHub%20Repo-View%20Project-blue?style=for-the-badge&logo=github" alt="View Project on GitHub"/>
     </a>
   </p>
 </div>
-<br clear="both">
-
-<h2 align="center">📚 Education & Certifications</h2>
-<div align="center">
-  <p><strong>Purwadhika Digital Technology School</strong> - Full Stack Web Development Bootcamp (2022-2023) [cite: 13]</p>
-  <p><strong>Coursera & INSEAD</strong> - Web3 & Blockchain Courses (2024)</p>
-  <p><strong>Coursera & UCI</strong> - Blockchain Courses (2024)</p>
-  <p><strong>Udemy</strong> - Ethereum Blockchain Developer Bootcamp with Solidity (2024)</p>
-  <p><strong>Udemy</strong> - Prompt Engineering Bootcamp For AI (2024)</p>
-  <p><strong>Udemy</strong> - Agentic AI Engineering Courses (2025)</p>
-</div>
-
 <br clear="both">
 
 <h2 align="center">💬 Connect With Me</h2>
